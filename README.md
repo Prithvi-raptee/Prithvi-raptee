@@ -1,6 +1,6 @@
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RqMnFyZHdrd2IzZ2czeW9qbmdyYTdvcGV3cnVlNWNpbW43dnAwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xb2Bw5hUU56XsudVF8/giphy.gif" width="30" /> Prithvi
 
-<img align="right" alt="Pixelated Vegeta GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM3aGJ3bmJvOWIzZDNhcG1zNWhzNGVoY28ybWk3dnRvNmY2NWVvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6SyssSlTgPXq/giphy.gif" width="285" />
+<img align="right" alt="Pixelated Vegeta GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM3aGJ3bmJvOWIzZDNhcG1zNWhzNGVoY28ybWk3dnRvNmY2NWVvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6SyssSlTgPXq/giphy.gif" width="25%" />
 
 I'm a **Software Development Engineer (SDE)** at **Raptee.HV**, based in Chennai.
 
@@ -18,15 +18,16 @@ You can find me online as **Prithvi M Potti** or **8bitSaiyan**.
 </p>
 
 ---
+<br>
 
 <table>
   <tr>
     <td valign="middle">
       <h3 align="center"><em>“You may have invaded my mind and my body, but there’s one thing a Saiyan always keeps
-      <br>— his pride.”</em><br><span style="float: right;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~Vegeta</span></h3>
+      <br>— his pride.”</em><br><span style="float: right;">~Vegeta</span></h3>
     </td>
     <td valign="middle" align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWF6Z3lhdmo0MjBweHhnajBjemFjYzg3NWNxZ2VnZGZqd3M1aXFpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNn4hlkovWAHfpLRRD/giphy.gif" width="380" alt="Pixelated DBZ Banner"/>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWF6Z3lhdmo0MjBweHhnajBjemFjYzg3NWNxZ2VnZGZqd3M1aXFpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNn4hlkovWAHfpLRRD/giphy.gif" width="100%" alt="Pixelated DBZ Banner"/>
     </td>
   </tr>
 </table>
