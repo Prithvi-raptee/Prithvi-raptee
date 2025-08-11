@@ -38,7 +38,7 @@ You can find me online as **Prithvi M Potti** or **8bitSaiyan**.
   <tr>
     <td valign="middle">
       <h3 align="center"><em>“You may have invaded my mind and my body, but there’s one thing a Saiyan always keeps
-      <br>his pride.”</em><br><span style="float: right;">~Vegeta</span></h3>
+      <br>- his pride.”</em><br><span style="float: right;">~Vegeta</span></h3>
     </td>
     <td valign="middle" align="center">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWF6Z3lhdmo0MjBweHhnajBjemFjYzg3NWNxZ2VnZGZqd3M1aXFpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNn4hlkovWAHfpLRRD/giphy.gif" width="100%" alt="Pixelated DBZ Banner"/>
