@@ -1,7 +1,5 @@
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RqMnFyZHdrd2IzZ2czeW9qbmdyYTdvcGV3cnVlNWNpbW43dnAwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xb2Bw5hUU56XsudVF8/giphy.gif" width="30" /> Prithvi
-
 <img align="right" alt="Pixelated Vegeta GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM3aGJ3bmJvOWIzZDNhcG1zNWhzNGVoY28ybWk3dnRvNmY2NWVvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6SyssSlTgPXq/giphy.gif" width="30%" />
-
 Problems that touch hardware and low-level systems tend to stick with me. At Raptee.HV that usually means making our electric bikes behave: backend services in Go, embedded Linux applications, Dart FFI, UNIX sockets, TCP, and Protobuf. I ship backend pipelines and Flutter UIs that run on AGL boards and are tuned for the constraints they have.
 
 **In my me-time**  
@@ -21,9 +19,22 @@ I aim for just enough structure to ship quickly and just enough polish so the th
 - Ship Flutter UIs optimized for constrained displays on AGL boards  
 - Rapid prototypes that go from idea to working product in hours
 
+**Commit Activity**  
+Real-time insights into my development rhythm and coding patterns across different time scales.
+
+| Period | Activity | Trend |
+|--------|----------|--------|
+| Weekly | ![Weekly](https://github-commit-badge-api.vercel.app/commits?account=Prithvi-raptee&period=week&theme=dark&icon=calendar) | Sprint consistency |
+| Monthly | ![Monthly](https://github-commit-badge-api.vercel.app/commits?account=Prithvi-raptee&period=month&theme=dark&icon=chart) | Project momentum |
+| Quarterly | ![Quarterly](https://github-commit-badge-api.vercel.app/commits?account=Prithvi-raptee&period=quarter&theme=dark&icon=rocket) | Long-term productivity |
+| Yearly | ![Yearly](https://github-commit-badge-api.vercel.app/commits?account=Prithvi-raptee&period=year&theme=dark&icon=trophy) | Annual contribution |
+
+<!--NOTE: -->
+<!-- You can find the documentation for my commit badges at https://github-commit-badge-api.vercel.app/ -->
+<!-- Or, if you wanna self host them, check out https://github.com/Prithvi-raptee/github-commit-badge-api -->
+
 You can find me online as **Prithvi M Potti** or **8bitSaiyan**.  
 <br>
-
 **Connect with me**  
 <a href="https://x.com/0x8bitsaiyan">X (Twitter)</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prithvi202/">LinkedIn</a>
 
@@ -32,13 +43,14 @@ You can find me online as **Prithvi M Potti** or **8bitSaiyan**.
 </p>
 
 ---
+
 <br>
 
 <table>
   <tr>
     <td valign="middle">
-      <h3 align="center"><em>“You may have invaded my mind and my body, but there’s one thing a Saiyan always keeps
-      <br>- his pride.”</em><br><span style="float: right;">~Vegeta</span></h3>
+      <h3 align="center"><em>"You may have invaded my mind and my body, but there's one thing a Saiyan always keeps
+      <br>- his pride."</em><br><span style="float: right;">~Vegeta</span></h3>
     </td>
     <td valign="middle" align="center">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWF6Z3lhdmo0MjBweHhnajBjemFjYzg3NWNxZ2VnZGZqd3M1aXFpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNn4hlkovWAHfpLRRD/giphy.gif" width="100%" alt="Pixelated DBZ Banner"/>
