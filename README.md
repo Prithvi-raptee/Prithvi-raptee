@@ -1,6 +1,7 @@
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RqMnFyZHdrd2IzZ2czeW9qbmdyYTdvcGV3cnVlNWNpbW43dnAwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xb2Bw5hUU56XsudVF8/giphy.gif" width="30" /> Prithvi
 <img align="right" alt="Pixelated Vegeta GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM3aGJ3bmJvOWIzZDNhcG1zNWhzNGVoY28ybWk3dnRvNmY2NWVvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6SyssSlTgPXq/giphy.gif" width="30%" />
 Problems that touch hardware and low-level systems tend to stick with me. At Raptee.HV that usually means making our electric bikes behave: backend services in Go, embedded Linux applications, Dart FFI, UNIX sockets, TCP, and Protobuf. I ship backend pipelines and Flutter UIs that run on AGL boards and are tuned for the constraints they have.
+<br></br>
 
 **In my me-time**  
 I take the same approach to side projects. Hack a prototype in an evening, dig into an odd protocol, or wire up something that never existed before. If it needs to be ready tomorrow, there is a good chance it will be done tonight.  
@@ -22,12 +23,13 @@ I aim for just enough structure to ship quickly and just enough polish so the th
 **Commit Activity**  
 Real-time insights into my development rhythm and coding patterns across different time scales.
 
-| Period | Activity | Trend |
-|--------|----------|--------|
-| Weekly | ![Weekly](https://github-commit-badge-api.vercel.app/commits?account=Prithvi-raptee&period=week&theme=dark&icon=calendar) | Sprint consistency |
-| Monthly | ![Monthly](https://github-commit-badge-api.vercel.app/commits?account=Prithvi-raptee&period=month&theme=dark&icon=chart) | Project momentum |
-| Quarterly | ![Quarterly](https://github-commit-badge-api.vercel.app/commits?account=Prithvi-raptee&period=quarter&theme=dark&icon=rocket) | Long-term productivity |
-| Yearly | ![Yearly](https://github-commit-badge-api.vercel.app/commits?account=Prithvi-raptee&period=year&theme=dark&icon=trophy) | Annual contribution |
+| Period      | Activity                                                                                                            | Trend                  |
+|-------------|---------------------------------------------------------------------------------------------------------------------|------------------------|
+| Weekly      | ![Weekly](https://github-commit-badge-api.vercel.app/commits?account=Prithvi-raptee&period=week&theme=dark&icon=calendar) | Sprint consistency     |
+| Monthly     | ![Monthly](https://github-commit-badge-api.vercel.app/commits?account=Prithvi-raptee&period=month&theme=dark&icon=chart)  | Project momentum       |
+| Quarterly   | ![Quarterly](https://github-commit-badge-api.vercel.app/commits?account=Prithvi-raptee&period=quarter&theme=dark&icon=rocket) | Sustained growth |
+| Half-Yearly | ![Half-Yearly](https://github-commit-badge-api.vercel.app/commits?account=Prithvi-raptee&period=half&theme=dark&icon=fire) | The Saiyan Saga       |
+| Yearly      | ![Yearly](https://github-commit-badge-api.vercel.app/commits?account=Prithvi-raptee&period=year&theme=dark&icon=trophy) | Mastering Ultra Instinct    |
 
 <!--NOTE: -->
 <!-- You can find the documentation for my commit badges at https://github-commit-badge-api.vercel.app/ -->
